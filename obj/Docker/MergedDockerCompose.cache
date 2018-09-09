@@ -1,0 +1,20 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  nflteams:
+    build:
+      context: C:\projects\NflTeams\NflTeams
+      dockerfile: Dockerfile
+    image: nflteams
+    ports:
+    - 80/tcp
+  nflteamsservice:
+    build:
+      context: C:\projects\NflTeams\NflTeamsService
+      dockerfile: Dockerfile
+    image: nflteamsservice
+    ports:
+    - 80/tcp
+version: '3.0'

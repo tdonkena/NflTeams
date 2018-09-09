@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  nflteams:
+    image: nflteams
+    build:
+      context: .\NflTeams
+      dockerfile: Dockerfile
+
+  nflteamsservice:
+    image: nflteamsservice
+    build:
+      context: .\NflTeamsService
+      dockerfile: Dockerfile
+

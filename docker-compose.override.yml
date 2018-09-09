@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  nflteams:
+    ports:
+      - "80"
+  nflteamsservice:
+    ports:
+      - "80"
+networks:
+  default:
+    external:
+      name: nat
+
