@@ -9,12 +9,12 @@ services:
       dockerfile: Dockerfile
     image: nflteams
     ports:
-    - 80/tcp
+    - target: 80
   nflteamsservice:
     build:
       context: C:\projects\NflTeams\NflTeamsService
       dockerfile: Dockerfile
     image: nflteamsservice
     ports:
-    - 80/tcp
-version: '3.0'
+    - target: 80
+version: '3.4'

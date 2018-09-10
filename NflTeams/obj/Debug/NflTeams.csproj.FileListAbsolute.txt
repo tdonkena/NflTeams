@@ -3,6 +3,7 @@ C:\projects\NflTeams\NflTeams\bin\NflTeams.dll.config
 C:\projects\NflTeams\NflTeams\bin\NflTeams.dll
 C:\projects\NflTeams\NflTeams\bin\NflTeams.pdb
 C:\projects\NflTeams\NflTeams\bin\Antlr3.Runtime.dll
+C:\projects\NflTeams\NflTeams\bin\Entities.dll
 C:\projects\NflTeams\NflTeams\bin\Microsoft.AI.Agent.Intercept.dll
 C:\projects\NflTeams\NflTeams\bin\Microsoft.AI.DependencyCollector.dll
 C:\projects\NflTeams\NflTeams\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -21,6 +22,7 @@ C:\projects\NflTeams\NflTeams\bin\System.Web.WebPages.Deployment.dll
 C:\projects\NflTeams\NflTeams\bin\System.Web.WebPages.dll
 C:\projects\NflTeams\NflTeams\bin\System.Web.WebPages.Razor.dll
 C:\projects\NflTeams\NflTeams\bin\WebGrease.dll
+C:\projects\NflTeams\NflTeams\bin\Entities.pdb
 C:\projects\NflTeams\NflTeams\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\projects\NflTeams\NflTeams\bin\System.Web.Helpers.xml
 C:\projects\NflTeams\NflTeams\bin\System.Web.Mvc.xml
@@ -40,5 +42,3 @@ C:\projects\NflTeams\NflTeams\obj\Debug\NflTeams.csprojResolveAssemblyReference.
 C:\projects\NflTeams\NflTeams\obj\Debug\NflTeams.csproj.CoreCompileInputs.cache
 C:\projects\NflTeams\NflTeams\obj\Debug\NflTeams.dll
 C:\projects\NflTeams\NflTeams\obj\Debug\NflTeams.pdb
-C:\projects\NflTeams\NflTeams\bin\Entities.dll
-C:\projects\NflTeams\NflTeams\bin\Entities.pdb

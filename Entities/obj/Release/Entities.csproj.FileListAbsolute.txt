@@ -1,0 +1,6 @@
+C:\projects\NflTeams\Entities\bin\Release\Entities.dll
+C:\projects\NflTeams\Entities\bin\Release\Entities.pdb
+C:\projects\NflTeams\Entities\obj\Release\Entities.csprojResolveAssemblyReference.cache
+C:\projects\NflTeams\Entities\obj\Release\Entities.csproj.CoreCompileInputs.cache
+C:\projects\NflTeams\Entities\obj\Release\Entities.dll
+C:\projects\NflTeams\Entities\obj\Release\Entities.pdb

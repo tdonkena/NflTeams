@@ -1,0 +1,134 @@
+﻿[
+  {
+    "Name": "AFC North",
+    "Teams": [
+      { "Name": "Baltimore Ravens" },
+      { "Name": "Cincinnati Bengals" },
+      {
+        "Name": "Cleveland Browns"
+      },
+      {
+        "Name": "Pittsburgh Steelers"
+      }
+    ]
+  },
+  {
+    "Name": "AFC East",
+    "Teams": [
+      {
+        "Name": "Buffalo Bills"
+      },
+      {
+        "Name": "Miami Dolphins"
+      },
+      {
+        "Name": "New England Patriots"
+      },
+      {
+        "Name": "New York Jets"
+      }
+    ]
+  },
+  {
+    "Name": "NFC North",
+    "Teams": [
+      {
+        "Name": "Chicago Bears"
+      },
+      {
+        "Name": "Detroit Lions"
+      },
+      {
+        "Name": "Green Bay Packers"
+      },
+      {
+        "Name": "Minnesota Vikings"
+      }
+    ]
+  },
+  {
+    "Name": "NFC East",
+    "Teams": [
+      {
+        "Name": "Dallas Cowboys"
+      },
+      {
+        "Name": "New York Giants"
+      },
+      {
+        "Name": "Philadelphia Eagles"
+      },
+      {
+        "Name": "Washington Redskins"
+      }
+    ]
+  },
+  {
+    "Name": "AFC South",
+    "Teams": [
+      {
+        "Name": "Houston Texans"
+      },
+      {
+        "Name": "Indianapolis Colts"
+      },
+      {
+        "Name": "Jacksonville Jaguars"
+      },
+      {
+        "Name": "Tennessee Titans"
+      }
+    ]
+  },
+  {
+    "Name": "AFC West",
+    "Teams": [
+      {
+        "Name": "Denver Broncos"
+      },
+      {
+        "Name": "Kansas City Chiefs"
+      },
+      {
+        "Name": "Los Angeles Chargers"
+      },
+      {
+        "Name": "Oakland Raiders"
+      }
+    ]
+  },
+  {
+    "Name": "NFC South",
+    "Teams": [
+      {
+        "Name": "Atlanta Falcons"
+      },
+      {
+        "Name": "Carolina Panthers"
+      },
+      {
+        "Name": "New Orleans Saints"
+      },
+      {
+        "Name": "Tampa Bay Buccaneers"
+      }
+    ]
+  },
+  {
+    "Name": "NFC West",
+    "Teams": [
+      {
+        "Name": "Arizona Cardinals"
+      },
+      {
+        "Name": "Los Angeles Rams"
+      },
+      {
+        "Name": "San Francisco 49ers"
+      },
+      {
+        "Name": "Seattle Seahawks"
+      }
+    ]
+  }
+]

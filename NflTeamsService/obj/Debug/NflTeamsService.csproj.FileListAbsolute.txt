@@ -1,8 +1,3 @@
-C:\projects\NflTeams\NflTeamsService\bin\ApplicationInsights.config
-C:\projects\NflTeams\NflTeamsService\bin\App_Data\Teams.json
-C:\projects\NflTeams\NflTeamsService\bin\NflTeamsService.dll.config
-C:\projects\NflTeams\NflTeamsService\bin\NflTeamsService.dll
-C:\projects\NflTeams\NflTeamsService\bin\NflTeamsService.pdb
 C:\projects\NflTeams\NflTeamsService\bin\Antlr3.Runtime.dll
 C:\projects\NflTeams\NflTeamsService\bin\Entities.dll
 C:\projects\NflTeams\NflTeamsService\bin\Microsoft.AI.Agent.Intercept.dll
@@ -49,3 +44,8 @@ C:\projects\NflTeams\NflTeamsService\obj\Debug\NflTeamsService.csprojResolveAsse
 C:\projects\NflTeams\NflTeamsService\obj\Debug\NflTeamsService.csproj.CoreCompileInputs.cache
 C:\projects\NflTeams\NflTeamsService\obj\Debug\NflTeamsService.dll
 C:\projects\NflTeams\NflTeamsService\obj\Debug\NflTeamsService.pdb
+C:\projects\NflTeams\NflTeamsService\bin\ApplicationInsights.config
+C:\projects\NflTeams\NflTeamsService\bin\App_Data\Teams.json
+C:\projects\NflTeams\NflTeamsService\bin\NflTeamsService.dll.config
+C:\projects\NflTeams\NflTeamsService\bin\NflTeamsService.dll
+C:\projects\NflTeams\NflTeamsService\bin\NflTeamsService.pdb
